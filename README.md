@@ -1,8 +1,2 @@
-# Bluetooth Penetration Testing
+# Welcome
 
-
-
-## Bluetooth Classic vs Bluetooth Low Energy
-
-
-## Impersonation Attacks
