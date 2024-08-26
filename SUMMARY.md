@@ -32,6 +32,7 @@
 
 ## Attacks
 
+* [CVEs](attacks/cves.md)
 * [Blesa](attacks/blesa.md)
 * [BIAS](attacks/bias.md)
 * [KNOB](attacks/knob.md)
